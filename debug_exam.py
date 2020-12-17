@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 17 12:18:34 2020
+
+@author: Apeksha Prabhu
+"""
+
 '''
 This function takes two arguments,
 data1 and data2, which contain
